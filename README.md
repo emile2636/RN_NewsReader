@@ -1,1 +1,3 @@
-test README.
+npm install
+
+expo start
